@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "routes": [
+    {
+      "src": "/admin",
+      "headers": {
+        "x-robots-tag": "noindex"
+      }
+    }
+  ]
+}
